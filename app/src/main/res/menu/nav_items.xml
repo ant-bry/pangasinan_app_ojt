@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home_btn"
+        android:icon="@drawable/ic_home"
+        android:title="Home" />
+
+    <item
+        android:icon="@drawable/ic_menumap"
+        android:title="Menu"
+        android:id="@+id/nav_menu_btn"/>
+
+    <item
+        android:icon="@drawable/ic_account"
+        android:title="Account"
+        android:id="@+id/nav_account_btn"/>
+
+</menu>

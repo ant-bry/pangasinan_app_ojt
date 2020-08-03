@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "881488263325",
+    "firebase_url": "https://pangasinan-mobile-app.firebaseio.com",
+    "project_id": "pangasinan-mobile-app",
+    "storage_bucket": "pangasinan-mobile-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881488263325:android:37ce88eb54cf1700",
+        "android_client_info": {
+          "package_name": "com.example.anthonybryanmpagarigan.ph_ojt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881488263325-u3hll0l1kgl84bf8bm3ummf1uu5p1qpp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anthonybryanmpagarigan.ph_ojt",
+            "certificate_hash": "d8ee7f358531675b405c83478abe9cef5f59b018"
+          }
+        },
+        {
+          "client_id": "881488263325-qkj8j48pcemj0im08cvu2aph7r3snjm2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI_WkskfNUhquj4e_buLWOY3VfQH1A5W8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881488263325-qkj8j48pcemj0im08cvu2aph7r3snjm2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881488263325:android:446ae98cc4fd84e9",
+        "android_client_info": {
+          "package_name": "com.example.anthonybryanmpagarigan.ph_ojt2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881488263325-tc9odvmqfpr8rqi0cs9unc8ql33p6arb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anthonybryanmpagarigan.ph_ojt2",
+            "certificate_hash": "d8ee7f358531675b405c83478abe9cef5f59b018"
+          }
+        },
+        {
+          "client_id": "881488263325-qkj8j48pcemj0im08cvu2aph7r3snjm2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI_WkskfNUhquj4e_buLWOY3VfQH1A5W8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881488263325-qkj8j48pcemj0im08cvu2aph7r3snjm2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
